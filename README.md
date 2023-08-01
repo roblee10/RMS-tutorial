@@ -1,3 +1,6 @@
+## RMS Management System
+본 프로젝트는 Remote Management Syste 실습 및 테스트하고자 진행한다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
